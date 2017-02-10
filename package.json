@@ -1,0 +1,19 @@
+{
+  "name": "rad-router",
+  "version": "1.0.0",
+  "description": "A Node http router that implements a Radix tree (trie).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "router",
+    "radix",
+    "tree",
+    "trie"
+  ],
+  "author": "Ryan Bump",
+  "license": "MIT"
+}
