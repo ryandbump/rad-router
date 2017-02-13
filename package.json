@@ -1,6 +1,6 @@
 {
   "name": "rad-router",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A Node http router that implements a Radix tree (trie).",
   "main": "index.js",
   "scripts": {
